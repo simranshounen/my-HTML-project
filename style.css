@@ -1,15 +1,15 @@
-h1{
-    color: rgb(45, 145, 107);
+#box{
+    background-color: rgba(17, 236, 196, 0.786);
 }
-body{
-    background-color: #E2C044;
+.red{
+    color: rgb(255, 179, 0);
 }
-.ji{
-    background-color: #55dbcb;
+p{
+    text-align: center;
 }
-.bl{
-    background-color: #39A2AE;
-}
-button{
-    color :#E2C044
+.red{
+    text-align: center;
+    text-decoration: black dotted underline;
+
+    text-shadow: 0cap;
 }
