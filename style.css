@@ -1,15 +1,16 @@
-#box{
-    background-color: rgba(17, 236, 196, 0.786);
+*{
+    color: beige;
 }
-.red{
-    color: rgb(255, 179, 0);
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 p{
     text-align: center;
 }
-.red{
-    text-align: center;
-    text-decoration: black dotted underline;
-
-    text-shadow: 0cap;
+body{
+ background-color: black;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
