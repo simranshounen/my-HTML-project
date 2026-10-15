@@ -1,6 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
 div{
-    height: 100px;
-    width: 100px;
-    background-color: greenyellow;
-    border-radius: 50px;
+    background-color: #0f1111;
+    height: 60px;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#search{
+    color: black;
 }
