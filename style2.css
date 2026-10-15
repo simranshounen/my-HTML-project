@@ -17,7 +17,15 @@
     display: block;
 }
 #two{
-    background-color: rgb(110, 62, 244);
+    background-color: rgba(110, 62, 244,0.5);
+    display: inline;
+}
+#ji{
+    background-color: rgba(110, 62, 244,0.25);
+    display: inline;
+}
+#wow{
+    background-color: rgba(110, 62, 244,0.1);
     display: inline;
 }
 #three{
