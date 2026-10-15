@@ -1,23 +1,38 @@
-*{
-    padding: 0px;
-    margin: 0px;
-    color: white;
+#log{
+    background-color: pink;
+    display: inline-block;
 }
-div{
-    background-color: #0f1111;
-    height: 60px;
+ button{
+    display: block;
+} 
+.one{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
 }
-button{
-    background-color: #f08804;
+#one{
+    background-color: aquamarine;
+    display: block;
 }
-#logo{
-    color: #f08804;
-    font-size: 25px;
+#two{
+    background-color: rgb(110, 62, 244);
+    display: inline;
 }
-a{
-    margin-right: 200px;
-    text-decoration: none;
+#three{
+    background-color: rgb(225, 103, 103);
+    display: none;
 }
-#search{
-    color: black;
+#four{
+    background-color: pink;
+  visibility: hidden;
+}
+#five{
+    background-color: rgb(72, 173, 227);
+   visibility: inherit;
+}
+#six{
+    background-color: rgb(233, 149, 46);
+    display: inline-block;
 }
