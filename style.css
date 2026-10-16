@@ -1,31 +1,16 @@
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 128, 98);
+    font-size: 10px;
+}
+#box2{
+  
+    width: 30vw;
+    margin: 3%;
+    background-color: rgb(97, 193, 68);
+    font-size: 2em;
+    width: 2rem;
+      height: 50vh;
+}
 
-
-h1{
-    height: 100px ;
-    width: 200px ;
-    background-color: rgb(7, 207, 238);
-    border-width: 4px ;
-    border-color: black ;
-    border-style: dashed;
-    text-align: center;
-}
-.zero{
-  height: 100px;
-  width: 200px;
-  background-color: pink;
-  border-width: 3px;
-  border-color: rgba(128, 18, 18, 0.937);
-  border-style: solid;
-  border-radius: 15px;
-  text-align: center;
-  margin: 25Gpx;
-  padding: 12px 12px 12px 12px;
-}
-#one{
-    height: 100px;
-    width: 100px;
-    border: solid , rgba(128, 18, 18, 0.937), 3px ;
-    background-color: pink;
-    border-radius: 50px ;
-    text-align: center;
-}
