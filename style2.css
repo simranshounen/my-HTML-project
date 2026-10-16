@@ -1,46 +1,49 @@
-#log{
-    background-color: pink;
-    display: inline-block;
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
 }
- button{
-    display: block;
-} 
-.one{
+div{
+    background-color: #0f1111;
+    height: 60px;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#search{
+    color: black;
+}
+.box{
     height: 100px;
     width: 100px;
-    margin: 25px;
-    padding: 25px;
+    border: 2px solid black;
     display: inline-block;
 }
-#one{
-    background-color: aquamarine;
-    display: block;
+#chika{
+    background-color: rgba(255,0,0,0.5);
 }
-#two{
-    background-color: rgba(110, 62, 244,0.5);
-    display: inline;
+#chikat{
+    background-color: rgba(0,255,0,0.5);
 }
-#ji{
-    background-color: rgba(110, 62, 244,0.25);
-    display: inline;
+#chikatr{
+    background-color: rgba(0,0,255,0.5);
 }
-#wow{
-    background-color: rgba(110, 62, 244,0.1);
-    display: inline;
+#content{
+ height: 500px;
 }
-#three{
-    background-color: rgb(225, 103, 103);
-    display: none;
+footer{
+    background-color: #131A22;;
+    color: white;
+    text-align: center;
 }
-#four{
-    background-color: pink;
-  visibility: hidden;
-}
-#five{
-    background-color: rgb(72, 173, 227);
-   visibility: inherit;
-}
-#six{
-    background-color: rgb(233, 149, 46);
-    display: inline-block;
+p{
+    color: #999;
 }
