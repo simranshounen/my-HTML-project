@@ -10,9 +10,11 @@ div{
 }
 #container{
    align-content: center;
-    height: 200px;
-    width: 800px;
+    height: 100px;
+    width: 1500px;
     display: flex;
+    flex-direction: row;
+    flex-direction: column-reverse;
     
 }
 #box1{
@@ -29,4 +31,34 @@ div{
 }
 #box5{
     background-color: rgb(211, 86, 86);
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+   text-align: center;
+    flex-direction: row-reverse;
+    flex-direction: column;
+}
+#container2{
+    align-items: center;
+    height: 200px;
+    width: 1500px;
+    display: flexbox;
+}
+#B1{
+    background-color: pink;
+}
+#B2{
+    background-color: chartreuse;
+}
+#B3{
+    background-color: rgb(115, 164, 255);
+}
+#B4{
+    background-color: rgb(210, 153, 7);
+}
+#B5{
+    background-color: rgb(213, 101, 198);
 }
