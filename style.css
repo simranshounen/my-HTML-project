@@ -1,11 +1,32 @@
-#box1{
+h1{
+    text-align: center;
+}
+div{
     height: 100px;
     width: 100px;
-    background-image:url("cute-chuha.jpg") ;
-    background-size: cover;
-    color: white;
-    position: fixed;
-    right: 0px;
-    top: 10px;
-
+    border: 2px solid black;
+    display: inline-block;
+   text-align: center;
+}
+#container{
+   align-content: center;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: rgb(20, 233, 162);
+}
+#box3{
+    background-color: rgb(235, 156, 60);
+}
+#box4{
+    background-color: rgb(183, 94, 246);
+}
+#box5{
+    background-color: rgb(211, 86, 86);
 }
